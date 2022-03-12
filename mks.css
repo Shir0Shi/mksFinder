@@ -1,0 +1,26 @@
+#map{
+    margin-top: 100px;
+    width: 450px;
+    height: 450px;
+    background-color: silver;
+    border-radius: 10px;
+
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    margin: 10px 30px 10px 30px;
+    border-radius: 10px;
+    border: none;
+}
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+body{
+    min-height: 100%;
+    background: url("https://parispeaceforum.org/wp-content/uploads/2021/10/NET-ZERO-SPACE-INITIATIVE-1.png");
+}
